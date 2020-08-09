@@ -79,7 +79,6 @@ public class custom_order {
     
     // TEST CODE
       
-    // STEP 10 DISPLAY COST AND SALES TAX
-  
+    // STEP 10 DISPLAY COST AND SALES TAX 
     }   
 }
